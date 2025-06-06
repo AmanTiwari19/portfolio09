@@ -28,5 +28,5 @@ A simple and responsive personal portfolio website to showcase skills, projects,
 
 ---
 
-## 📁 Folder Structure
+
 
