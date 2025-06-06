@@ -1,12 +1,32 @@
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
+# 🌐 Portfolio Website
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
+[![Website Status](https://img.shields.io/badge/Website-Online-brightgreen)](https://your-website-link.com)
+[![Repo Status](https://img.shields.io/badge/Status-Maintained-darkgreen)](https://github.com/your-username/your-repo)
+[![Built With](https://img.shields.io/badge/Built%20With-HTML%2C%20CSS%2C%20JavaScript-blue)]()
 
- <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using using Jekyll, Sass, and Gulp.js.</p>
+A simple and responsive personal portfolio website to showcase skills, projects, resume, and web presence. Designed with a clean UI and optimized for fast performance.
 
-![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg)
+---
 
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+## 🚀 Features
+
+- Responsive design for all screen sizes  
+- Smooth scrolling and animations  
+- Projects section with live demo and GitHub links  
+- Resume link/download button  
+- Social media links  
+- Contact form (optional)  
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5  
+- CSS3 / SCSS  
+- JavaScript  
+- [Optional] Particle.js, AOS.js, Bootstrap, or any libraries used  
+
+---
+
+## 📁 Folder Structure
+
